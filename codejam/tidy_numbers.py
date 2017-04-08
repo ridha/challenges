@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Tidy Numbers:
+Problem B. Tidy Numbers
 
 Tatiana likes to keep things tidy. Her toys are sorted from smallest to largest,
 her pencils are sorted from shortest to longest and her computers from oldest
