@@ -1,2 +1,3 @@
-# challenges
-Google code jam, Sedgewick's algorithms, ... 
+#### challenges
+
+Solutions and assorted through whilst working through online problems and textbooks.
